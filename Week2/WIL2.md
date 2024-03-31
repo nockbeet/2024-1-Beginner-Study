@@ -24,4 +24,4 @@
 
 
 * Pull Request 페이지 링크
-    >(https://github.com/nockbeet/2024-1-Beginner-Study/pull/2) 
+    >[https://github.com/nockbeet/2024-1-Beginner-Study/pull/2](https://github.com/nockbeet/2024-1-Beginner-Study/pull/2) 
