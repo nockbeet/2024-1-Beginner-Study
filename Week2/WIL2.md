@@ -23,5 +23,5 @@
         * Rebase and Merge : 각 commit의 base를 재설정하여, 모두 새로운 commit으로 변경. commit conflict 발생 시 Merge하려는 모든 commit에서 conflict가 발생할 수 있다.
 
 
-* Pull Request 페이지 링크
-    >[https://github.com/nockbeet/2024-1-Beginner-Study/pull/2](https://github.com/nockbeet/2024-1-Beginner-Study/pull/2) 
+* Pull Request 페이지 링크<br>
+    > [https://github.com/nockbeet/2024-1-Beginner-Study/pull/2](https://github.com/nockbeet/2024-1-Beginner-Study/pull/2) 
